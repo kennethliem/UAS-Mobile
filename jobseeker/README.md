@@ -1,6 +1,6 @@
 # jobseeker
 
-A new Flutter project.
+UAS Pemrograman Mobile - Kenneth Liem Hardadi [20195520004]
 
 ## Getting Started
 
