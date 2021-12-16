@@ -2,7 +2,7 @@
     package="com.matana.jobseeker.jobseeker">
    <application
         android:label="jobseeker"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"

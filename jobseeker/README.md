@@ -1,6 +1,6 @@
 # jobseeker
 
-UAS Pemrograman Mobile - Kenneth Liem Hardadi [20195520004]
+UAS - Kenneth Liem Hardadi [20195520004]
 
 ## Getting Started
 
