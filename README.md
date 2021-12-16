@@ -4,7 +4,7 @@ Aplikasi ini diharapkan dapat membantu dan menjadi perantara diantara Perusahaan
 <img src="ss.png?raw=true" height=400px/>
 
 ### Jurnal
-https://docs.google.com/document/d/12-SKaLMLgFRVsLmeuXC1RX3g79iBJSU22DNAs73tbz0/edit?usp=sharing
+https://docs.google.com/document/d/1N-ldxz2BrT-jUKi4gtxBJ6vxKm8xjHJxo0d9HEgvgvQ/edit?usp=sharing
 
 ### Built With
 - Dart
