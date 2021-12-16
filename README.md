@@ -1,5 +1,5 @@
 # Jobseeker App - UAS
-Aplikasi ini diharapkan dapat membantu dan menjadi perantara diantara Perusaan yang menyediakan lowongan pekerjaan dan orang-orang yang sedang mencari pekerjaan.
+Aplikasi ini diharapkan dapat membantu dan menjadi perantara diantara Perusahaan yang menyediakan lowongan pekerjaan dan orang-orang yang sedang mencari pekerjaan.
 ### Screenshot
 <img src="ss.png?raw=true" height=400px/>
 
