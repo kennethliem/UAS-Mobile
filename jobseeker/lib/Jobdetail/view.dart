@@ -87,7 +87,7 @@ class JobsDetail extends StatelessWidget {
                               fontWeight: FontWeight.w700)),
                       SizedBox(height: BasePadding),
                       Text(
-                        'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.',
+                        'As the Lead Frontend Engineer at [Redacted], you will lead a team of engineers to ship delightful experiences to every customer and potential customer to visit [Redacted]’s site. We expect that you will be both mentor and team leader for your engineers. This means that you will help with technical decisions, coach the engineers reporting to you, and partner with stakeholders cross-functionally - and you will definitely be writing code. On a typical day, you can expect to to coach engineers to level up their technical and soft skills, to plan and scope future projects, and to help fix a small bug or guide a new feature development',
                         textAlign: TextAlign.justify,
                         style: GoogleFonts.lato(
                             color: Colors.black, fontSize: 16.0),

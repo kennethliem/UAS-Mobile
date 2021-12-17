@@ -17,35 +17,35 @@ class jobList extends StatefulWidget {
 class _JobListState extends State<jobList> {
   List<Jobs> allJobs = [
     Jobs(
-        jobPosition: 'Tukang Kebun',
+        jobPosition: 'Frontend Developer',
         companyName: 'Google',
         location: 'Tangerang',
         salaryRange: '\ 5.000.000',
         logoName: 'google.png',
         savedJob: false),
     Jobs(
-        jobPosition: 'Office Boy',
+        jobPosition: 'Frontend Developer',
         companyName: 'Gojek',
         location: 'Jakarta',
         salaryRange: '\ 5.000.000',
         logoName: 'gojek.png',
         savedJob: false),
     Jobs(
-        jobPosition: 'Supervisor',
+        jobPosition: 'Frontend Developer',
         companyName: 'Tokopedia',
         location: 'Medan',
         salaryRange: '\ 5.000.000',
         logoName: 'tokopedia.png',
         savedJob: false),
     Jobs(
-        jobPosition: 'HRD',
+        jobPosition: 'Frontend Developer',
         companyName: 'Apple',
         location: 'Bali',
         salaryRange: '\ 5.000.000',
         logoName: 'apple.png',
         savedJob: false),
     Jobs(
-        jobPosition: 'Manager',
+        jobPosition: 'Frontend Developer',
         companyName: 'Shopee',
         location: 'Cirebon',
         salaryRange: '\ 5.000.000',
