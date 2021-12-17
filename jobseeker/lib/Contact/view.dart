@@ -40,7 +40,7 @@ class Contact extends StatelessWidget {
                                   color: Colors.black,
                                   fontSize: 20.0,
                                   fontWeight: FontWeight.w700)),
-                          Text('UTS - Pemrograman Mobile',
+                          Text('UAS - Pemrograman Mobile',
                               style: GoogleFonts.lato(
                                   color: DarkGrey,
                                   fontSize: 18.0,
