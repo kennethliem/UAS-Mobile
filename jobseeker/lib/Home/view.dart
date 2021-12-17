@@ -21,21 +21,21 @@ class _HomePageState extends State<HomePage> {
         companyName: 'Google',
         location: 'Tangerang',
         salaryRange: '\ 5.000.000',
-        logoName: 'logo.png',
+        logoName: 'google.png',
         savedJob: false),
     Jobs(
         jobPosition: 'Office Boy',
         companyName: 'Gojek',
         location: 'Jakarta',
         salaryRange: '\ 5.000.000',
-        logoName: 'logo2.png',
+        logoName: 'gojek.png',
         savedJob: false),
     Jobs(
         jobPosition: 'Supervisor',
         companyName: 'Tokopedia',
         location: 'Medan',
         salaryRange: '\ 5.000.000',
-        logoName: 'logo.png',
+        logoName: 'tokopedia.png',
         savedJob: false)
   ];
 
@@ -45,14 +45,14 @@ class _HomePageState extends State<HomePage> {
         companyName: 'Apple',
         location: 'Bali',
         salaryRange: '\ 5.000.000',
-        logoName: 'logo2.png',
+        logoName: 'apple.png',
         savedJob: false),
     Jobs(
         jobPosition: 'Manager',
         companyName: 'Shopee',
         location: 'Cirebon',
         salaryRange: '\ 5.000.000',
-        logoName: 'logo.png',
+        logoName: 'shopee.png',
         savedJob: false)
   ];
 
