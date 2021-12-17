@@ -64,3 +64,4 @@ class Contact extends StatelessWidget {
         ));
   }
 }
+
